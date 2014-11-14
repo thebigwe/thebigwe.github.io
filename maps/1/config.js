@@ -29,7 +29,7 @@ setParams({
             this setting can't be changed from the User Interface
         */
     minEdgeWidth : 1,
-    maxEdgeWidth : 50,
+    maxEdgeWidth : 30,
     textDisplayThreshold: 9,
     nodeSizeFactor : 1,
         /*
