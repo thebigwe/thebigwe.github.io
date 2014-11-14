@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-11-14">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="nr" title="nr" type="integer"></attribute>
+      <attribute id="answer" title="answer" type="string"></attribute>
+      <attribute id="question" title="question" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="G1." label="workers">
+        <attvalues>
+          <attvalue for="nr" value="25"></attvalue>
+          <attvalue for="answer" value="workers"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="20.923077"></viz:size>
+        <viz:position x="-209.77145" y="12.273781" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G2." label="well trained specialists">
+        <attvalues>
+          <attvalue for="nr" value="33"></attvalue>
+          <attvalue for="answer" value="well trained specialists"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="30.461538"></viz:size>
+        <viz:position x="0.53612137" y="-123.87118" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G6." label="pensioners">
+        <attvalues>
+          <attvalue for="nr" value="15"></attvalue>
+          <attvalue for="answer" value="pensioners"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-349.40332" y="-100.910324" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G3." label="unemployed">
+        <attvalues>
+          <attvalue for="nr" value="17"></attvalue>
+          <attvalue for="answer" value="unemployed"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="11.384615"></viz:size>
+        <viz:position x="-236.57805" y="145.37053" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G4." label="migrants">
+        <attvalues>
+          <attvalue for="nr" value="36"></attvalue>
+          <attvalue for="answer" value="migrants"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="34.03846"></viz:size>
+        <viz:position x="-113.14822" y="-147.50574" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G7." label="artists">
+        <attvalues>
+          <attvalue for="nr" value="39"></attvalue>
+          <attvalue for="answer" value="artists"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="37.615387"></viz:size>
+        <viz:position x="-88.318146" y="76.503494" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G8." label="creatives">
+        <attvalues>
+          <attvalue for="nr" value="41"></attvalue>
+          <attvalue for="answer" value="creatives"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-10.159077" y="-3.8042011" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G11." label="politicians">
+        <attvalues>
+          <attvalue for="nr" value="25"></attvalue>
+          <attvalue for="answer" value="politicians"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="20.923077"></viz:size>
+        <viz:position x="210.61037" y="-54.788826" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G5." label="students">
+        <attvalues>
+          <attvalue for="nr" value="30"></attvalue>
+          <attvalue for="answer" value="students"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="26.884615"></viz:size>
+        <viz:position x="48.36412" y="97.0258" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G9." label="technicians">
+        <attvalues>
+          <attvalue for="nr" value="22"></attvalue>
+          <attvalue for="answer" value="technicians"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="17.346153"></viz:size>
+        <viz:position x="107.5875" y="-211.72314" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+      <node id="G10." label="institutional">
+        <attvalues>
+          <attvalue for="nr" value="26"></attvalue>
+          <attvalue for="answer" value="institutional"></attvalue>
+          <attvalue for="question" value="Milieu (2"></attvalue>
+        </attvalues>
+        <viz:size value="22.115385"></viz:size>
+        <viz:position x="145.00282" y="21.24015" z="0.0"></viz:position>
+        <viz:color r="255" g="242" b="194"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="G1." target="G2." weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G6." weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G3." weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G4." weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G7." weight="12.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G8." weight="9.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G11." weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G5." weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G9." weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G1." target="G10." weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G2." target="G6." weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G2." target="G3." weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G2." target="G4." weight="14.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G2." target="G7." weight="12.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G2." target="G8." weight="17.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G2." target="G5." weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G2." target="G9." weight="11.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G6." target="G7." weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G6." target="G8." weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G6." target="G9." weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G3." target="G6." weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G3." target="G4." weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G3." target="G7." weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G3." target="G8." weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G3." target="G5." weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G3." target="G9.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G4." target="G6." weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G4." target="G7." weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G4." target="G8." weight="14.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G4." target="G5." weight="9.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G4." target="G9." weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G7." target="G8." weight="23.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G7." target="G9." weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G8." target="G9." weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G2." weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G6." weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G3." weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G4." weight="11.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G7." weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G8." weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G5." weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G11." target="G9." weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G5." target="G6." weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G5." target="G7." weight="17.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G5." target="G8." weight="17.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G5." target="G9." weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G2." weight="11.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G6.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G3." weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G4." weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G7." weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G8." weight="14.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G11." weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G5." weight="10.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="G10." target="G9." weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
