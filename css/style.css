@@ -11,6 +11,7 @@ body{
 
 a, a:hover{
 	text-decoration: none;
+    border-bottom: 1px dotted rgba(67, 171, 171, 1);
 }
 
 .avatar { width:100%;}
