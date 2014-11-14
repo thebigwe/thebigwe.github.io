@@ -27,7 +27,6 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="weighted degree" value="90.0"></attvalue>
           <attvalue for="name" value="Daniel"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="40-49"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -44,7 +43,6 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="weighted degree" value="33.0"></attvalue>
           <attvalue for="name" value="fznfrzn"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -70,7 +68,7 @@
           <attvalue for="track" value="After NSA-Gate"></attvalue>
         </attvalues>
         <viz:size value="41.11111"></viz:size>
-        <viz:position x="-5656.089" y="-2904.0632" z="0.0"></viz:position>
+        <viz:position x="-1644.7897" y="253.39314" z="0.0"></viz:position>
         <viz:color r="163" g="158" b="255"></viz:color>
       </node>
       <node id="BG064" label="Matthew Linares">
@@ -87,7 +85,7 @@
           <attvalue for="track" value="We Are All Migrants"></attvalue>
         </attvalues>
         <viz:size value="41.11111"></viz:size>
-        <viz:position x="-5634.748" y="-2995.609" z="0.0"></viz:position>
+        <viz:position x="-1532.9067" y="172.04274" z="0.0"></viz:position>
         <viz:color r="163" g="158" b="255"></viz:color>
       </node>
       <node id="BG083" label="Sophie">
@@ -104,7 +102,7 @@
           <attvalue for="track" value="The Big We"></attvalue>
         </attvalues>
         <viz:size value="41.11111"></viz:size>
-        <viz:position x="-5724.695" y="-2968.3127" z="0.0"></viz:position>
+        <viz:position x="-1667.244" y="387.3465" z="0.0"></viz:position>
         <viz:color r="163" g="158" b="255"></viz:color>
       </node>
       <node id="BG084" label="Flocki">
@@ -112,7 +110,6 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="weighted degree" value="90.0"></attvalue>
           <attvalue for="name" value="Flocki"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -146,7 +143,6 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="weighted degree" value="82.0"></attvalue>
           <attvalue for="name" value="Adriana"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -384,7 +380,6 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="weighted degree" value="105.0"></attvalue>
           <attvalue for="name" value="Hannah Schraven"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -418,7 +413,6 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="weighted degree" value="61.0"></attvalue>
           <attvalue for="name" value="erika"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Americas"></attvalue>
@@ -452,7 +446,6 @@
           <attvalue for="modularity_class" value="3"></attvalue>
           <attvalue for="weighted degree" value="96.0"></attvalue>
           <attvalue for="name" value="Kappuchino"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="40-49"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -469,7 +462,6 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="weighted degree" value="76.0"></attvalue>
           <attvalue for="name" value="Knut"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="40-49"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -488,7 +480,6 @@
           <attvalue for="name" value="v*"></attvalue>
           <attvalue for="organisation" value="fiber"></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
-          <attvalue for="gender" value=""></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
           <attvalue for="born in" value="Western Europe"></attvalue>
           <attvalue for="field" value="media"></attvalue>
@@ -537,7 +528,6 @@
           <attvalue for="modularity_class" value="3"></attvalue>
           <attvalue for="weighted degree" value="58.0"></attvalue>
           <attvalue for="name" value="Gramsch"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -775,7 +765,6 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="weighted degree" value="80.0"></attvalue>
           <attvalue for="name" value="svajax"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Eastern Europe"></attvalue>
@@ -792,7 +781,6 @@
           <attvalue for="modularity_class" value="3"></attvalue>
           <attvalue for="weighted degree" value="100.0"></attvalue>
           <attvalue for="name" value="elisabeth"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -809,7 +797,6 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="weighted degree" value="106.0"></attvalue>
           <attvalue for="name" value="Marina Sitrin"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="40-49"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="nomad"></attvalue>
@@ -843,7 +830,6 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="weighted degree" value="95.0"></attvalue>
           <attvalue for="name" value="aryojakarta"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="40-49"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Americas"></attvalue>
@@ -928,7 +914,6 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="weighted degree" value="114.0"></attvalue>
           <attvalue for="name" value="Wiebke"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1064,7 +1049,6 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="weighted degree" value="113.0"></attvalue>
           <attvalue for="name" value="Jacopo"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Northern Europe"></attvalue>
@@ -1115,7 +1099,6 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="weighted degree" value="62.0"></attvalue>
           <attvalue for="name" value="Mycle"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="60-69"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1132,7 +1115,6 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="weighted degree" value="35.0"></attvalue>
           <attvalue for="name" value="Adrrr"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1141,7 +1123,7 @@
           <attvalue for="track" value="We Are All Migrants"></attvalue>
         </attvalues>
         <viz:size value="31.481482"></viz:size>
-        <viz:position x="679.9985" y="6573.489" z="0.0"></viz:position>
+        <viz:position x="-1348.6302" y="-252.9885" z="0.0"></viz:position>
         <viz:color r="255" g="132" b="87"></viz:color>
       </node>
       <node id="BG016" label="Manfred Ronzheimer ">
@@ -1149,7 +1131,6 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="weighted degree" value="38.0"></attvalue>
           <attvalue for="name" value="Manfred Ronzheimer "></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="50-59"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1251,7 +1232,6 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="weighted degree" value="87.0"></attvalue>
           <attvalue for="name" value="Rosa Linde"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1285,7 +1265,6 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="weighted degree" value="41.0"></attvalue>
           <attvalue for="name" value="Christoph"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1302,7 +1281,6 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="weighted degree" value="93.0"></attvalue>
           <attvalue for="name" value="Sophie"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1353,7 +1331,6 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="weighted degree" value="58.0"></attvalue>
           <attvalue for="name" value="hdeweyh"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Americas"></attvalue>
@@ -1379,7 +1356,7 @@
           <attvalue for="track" value="Bitcoin Meets Blue Marble"></attvalue>
         </attvalues>
         <viz:size value="31.481482"></viz:size>
-        <viz:position x="661.07117" y="6640.367" z="0.0"></viz:position>
+        <viz:position x="-1492.1459" y="-175.27634" z="0.0"></viz:position>
         <viz:color r="255" g="132" b="87"></viz:color>
       </node>
       <node id="BG060" label="Teobaldo">
@@ -1387,7 +1364,6 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="weighted degree" value="86.0"></attvalue>
           <attvalue for="name" value="Teobaldo"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1472,7 +1448,6 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="weighted degree" value="66.0"></attvalue>
           <attvalue for="name" value="steph"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="30-39"></attvalue>
           <attvalue for="gender" value="female"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
@@ -1557,7 +1532,6 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="weighted degree" value="96.0"></attvalue>
           <attvalue for="name" value="Napalsknykvist"></attvalue>
-          <attvalue for="organisation" value=""></attvalue>
           <attvalue for="age" value="20-29"></attvalue>
           <attvalue for="gender" value="male"></attvalue>
           <attvalue for="based in" value="Western Europe"></attvalue>
