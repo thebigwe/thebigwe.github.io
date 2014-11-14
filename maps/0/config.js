@@ -28,7 +28,7 @@ setParams({
             Change this parameter for wider or narrower edges
             this setting can't be changed from the User Interface
         */
-    minEdgeWidth : 1,
+    minEdgeWidth : 3,
     maxEdgeWidth : 15,
     textDisplayThreshold: 9,
     nodeSizeFactor : 1,
