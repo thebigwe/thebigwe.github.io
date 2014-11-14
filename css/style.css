@@ -3,7 +3,7 @@ body{
 	font-size: 18px;
 	color: #383838;
 	line-height: 30px;
-	background: #1b7e5a;
+	background: rgba(188,188,188,1);
 	line-height: 1.5;
 }
 
@@ -19,7 +19,7 @@ a, a:hover{
 }
 
 .navigation{
-	background: #232323;
+	background: #2C4549;
 	font-size: 20px;
 	line-height: 60px;
 }
@@ -71,16 +71,16 @@ a, a:hover{
 .font16 { font-size:16px; }
 .person a,
 .person a:hover{
-	color: #21ba82 !important;
+	color: #2C4549 !important;
 }
 
 .name{
 	font-weight: 600;
-	color: #e76e66;
+	color: #622F24;
 }
 
 .greentext{
-	color: #21ba82;
+	color: #2C4549;
 }
 
 .desciption{
@@ -210,7 +210,7 @@ a, a:hover{
 }
 #portfolio-filter li a:hover, #portfolio-filter li a.current {
 	color:#fff;
-	background: rgb(33, 186, 130);
+	background: #2C4549;
 }
 
 #portfolio-list{padding:0;
@@ -247,7 +247,7 @@ a, a:hover{
 }
 .jqbar.active .bar-level, .jqbar.hover .bar-level
 {
-	background-color:rgb(24, 141, 98)!important;
+	background-color:#21ba82 !important;
 }
 
  .flip-container

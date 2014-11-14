@@ -37,7 +37,7 @@
 
 /*horizontal*/
 .jqbar.horizontal  { margin-bottom:1px; float:left; margin-top:6px;}
-.jqbar.horizontal.active .bar-level {background:rgb(25, 151, 105);}
+.jqbar.horizontal.active .bar-level {background:#2C4549;}
 .jqbar.horizontal span
 {
     display: inline-block;
